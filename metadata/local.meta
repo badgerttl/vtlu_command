@@ -1,0 +1,25 @@
+[]
+access = read : [ * ], write : [ * ]
+export = system
+version = 6.5.2
+modtime = 1497759160.984856000
+
+[vtlu/settings]
+version = 6.5.2
+modtime = 1498363660.741225000
+
+[app/install/is_configured]
+version = 6.5.2
+modtime = 1498363660.743732000
+
+[app/ui]
+version = 6.5.2
+modtime = 1498365219.082939000
+
+[app/launcher]
+version = 6.5.2
+modtime = 1498365219.084275000
+
+[app/package/check_for_updates]
+version = 6.5.2
+modtime = 1498365219.084878000

@@ -1,0 +1,37 @@
+<setup>
+	<block title="VirusTotal API" endpoint="configs/conf-vtlu" entity="settings">
+	<text>
+		&lt;b&gt;Setting VirusTotal API Key&lt;/b&gt;
+	</text>
+	<input field="api_key">
+		<label>API Key</label>
+		<type>text</type>
+	</input>
+	</block>
+
+<!--	
+		<block title="Enable web proxy" endpoint="configs/conf-vtlu" entity="settings">
+		
+		<text>
+			&lt;i&gt;Setting web proxy url.&lt;/i&gt;
+		</text>
+
+		<input field="is_use_proxy">
+			<label>Enable proxy</label>
+			<type>bool</type>
+		</input>
+
+		<input field="http_proxy">
+				<label>HTTP Proxy</label>
+				<type>text</type>
+		</input>
+
+		<input field="https_proxy">
+				<label>HTTPS Proxy</label>
+				<type>text</type>
+		</input>
+
+		</block>
+-->
+</setup>
+
